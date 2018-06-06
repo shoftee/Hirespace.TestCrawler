@@ -42,6 +42,10 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="ConcurrentHashSet.cs" />
+    <Compile Include="Crawler.cs" />
+    <Compile Include="CrawlerResult.cs" />
+    <Compile Include="CrawlerRunner.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
