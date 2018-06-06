@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hirespace.TestCrawler", "Hirespace.TestCrawler\Hirespace.TestCrawler.csproj", "{85CE04BF-F6F2-418F-8E5A-335E902B65CC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{85CE04BF-F6F2-418F-8E5A-335E902B65CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{85CE04BF-F6F2-418F-8E5A-335E902B65CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{85CE04BF-F6F2-418F-8E5A-335E902B65CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{85CE04BF-F6F2-418F-8E5A-335E902B65CC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4A336EF5-29C4-49CF-B041-0808C64EF90A}
+	EndGlobalSection
+EndGlobal
